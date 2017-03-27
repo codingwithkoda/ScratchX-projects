@@ -1,2 +1,1 @@
-# ScratchX-projects
-Coding with Koda ScratchX-projects
+# codingwithkoda.github.io-scratchx
